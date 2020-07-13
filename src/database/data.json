@@ -1,0 +1,39 @@
+{
+  "sizes": ["broto", "média", "grande"],
+  "crusts": [ "pan", "fina", "especial da casa", "borda recheada"],
+  "flavors": [
+    {
+      "name": "A moda da Casa",
+      "ingredients": 
+        ["mussarela", "fatias de tomate", "fatias de lombo", "ovo", "cebola", "bacon"],
+      "price": 40
+    }, {
+      "name": "Autraliana",
+      "ingredients": 
+        ["presunto", "cebola", "fatias de tomate", "milho", "cob. de mussarela", "bacon"],
+      "price": 42.90
+    }, {
+      "name": "Calabresa",
+      "ingredients": 
+        ["calabresa fatiada", "cebola"],
+      "price": 36.80
+    }, {
+      "name": "Francesa",
+      "ingredients": 
+        ["presunto picado", "cebola", "catupiry", "mussarela", "palmito", "bacon"],
+      "price": 42.90
+    }, {
+      "name": "Mexicana",
+      "ingredients": 
+        ["presunto", "champignon", "cebola", "cob. de mussarela", "lombo", "bacon"],
+      "price": 41.90
+    }, {
+      "name": "Romana",
+      "ingredients": 
+        ["mussarela", "fatias de tomate", "aliche importado", "cebola", "rúcula"],
+      "price": 44.90
+    }
+  ],
+  "pizzaDia": "Romana",
+  "pontosDia": 13
+}
