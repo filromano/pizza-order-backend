@@ -1,6 +1,6 @@
 {
-  "sizes": ["broto", "média", "grande"],
-  "crusts": [ "pan", "fina", "especial da casa", "borda recheada"],
+  "sizes": ["Broto", "Média", "Grande"],
+  "crusts": [ "Pan", "Fina", "Especial da Casa", "Borda Recheada"],
   "flavors": [
     {
       "name": "A moda da Casa",
